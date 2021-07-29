@@ -3,9 +3,9 @@ Ensemble-Techniques-Travel_Package_Purchase_Prediction
 
 Note: This repository includes the following files:
 
-Travel Package Purchase Prediction Project.ipynb Jupyter notebook
-Travel Package Purchase Prediction Project.py python file
-Tourism.csv Raw Data File
+- Travel Package Purchase Prediction Project.ipynb Jupyter notebook
+- Travel Package Purchase Prediction Project.py python file
+- Tourism.csv Raw Data File
 
 
 1. Objective:
