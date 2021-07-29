@@ -9,8 +9,7 @@ Tourism.csv Raw Data File
 
 
 1. Objective:
-To predict which customer is more likely to purchase the long term tourist travel package, using ensemble techniques including: 
-- Random Forest, Decision Trees, xgb_classifier, adaboost, Baggining. 
+To predict which customer is more likely to purchase the long term tourist travel package, using ensemble techniques including Random Forest, Decision Trees, xgb_classifier, adaboost, Baggining. 
 
 2. Data Dictionary:
 - CustomerID: Unique customer ID
