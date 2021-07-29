@@ -2,10 +2,18 @@ Ensemble Techniques: CreditCard Users Churn Prediction
 
 
 Note: This repository includes the following files:
+- CreditCard Users Churn Prediction.ipynb Jupyter notebook
+- CreditCard Users Churn Prediction.py python file
+- BankChurners.csv Raw Data File
 
-- Travel Package Purchase Prediction Project.ipynb Jupyter notebook
-- Travel Package Purchase Prediction Project.py python file
-- Tourism.csv Raw Data File
+Technical Details: 
+- Perform an Exploratory Data Analysis 
+- Perform Data Pre-processing: Missing value Treatment, Outlier Detection, Feature Engineering, Prepare data for modeling
+- Model building - Decision tree, random forest, bagging classifier models - Build Xgboost, AdaBoost, and gradient boosting , and Logistic Regression models
+- Hyperparameter tuning using grid search and ramdonized search with pipelines 
+- Business recommendations and insights
+
+
 
 1. Description Background & Context:
 The Thera bank recently saw a steep decline in the number of users of their credit card, credit cards are a good source of income for banks because of different kinds of fees charged by the banks like annual fees, balance transfer fees, and cash advance fees, late payment fees, foreign transaction fees, and others. Some fees are charged on every user irrespective of usage, while others are charged under specified circumstances. Customers’ leaving credit cards services would lead bank to loss, so the bank wants to analyze the data of customers’ and identify the customers who will leave their credit card services and reason for same – so that bank could improve upon those areas. Thera bank need to come up with a classification model that will help bank improve their services so that customers do not renounce their credit cards
