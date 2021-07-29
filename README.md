@@ -1,4 +1,4 @@
-- Ensemble-Techniques-Travel_Package_Purchase_Prediction
+Ensemble-Techniques-Travel_Package_Purchase_Prediction
 
 
 Note: This repository includes the following files:
